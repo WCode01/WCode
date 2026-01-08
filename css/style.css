@@ -180,6 +180,7 @@ footer{
   border-radius: 50px;
   box-sizing: border-box;
   line-height: 60px;
+  z-index: 9999;
 }
 
 .wrapper .button:nth-child(1):hover .icon a{
