@@ -152,7 +152,8 @@ footer{
 }
 
 .wrapper .button {
-  display: inline-block; 
+  display: relative; 
+  z-index: 9999;
   height: 60px;
   width: 60px;
   float: left;
