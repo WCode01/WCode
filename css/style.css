@@ -154,7 +154,6 @@ footer{
 
 .wrapper .button {
   display: relative; 
-
   height: 60px;
   width: 60px;
   float: left;
@@ -380,6 +379,10 @@ footer{
     transform: none;
     margin-top: 2rem;
     text-align: center;
+  }
+  
+  .wrapper{
+    margin-left: 0%;
   }
 
 }
